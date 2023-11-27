@@ -1,0 +1,7 @@
+6
+deva,01234567890,01234567890,01234567890,,,ad@gmail.com,,,,,,,,,,,
+supritha,01234567890,09876543211,,,sup@gmail.com,s@gmail.com,,,,,,,,,,
+aaju,00987654321,01234567890,,,,deva@gmail.com,aaju@gmail.com,,,,
+devan,01234567890,00987654321,00987654321,,,deva@gmail.com,aaju@gmail.com,,,,,,,,,
+devanarayanan,09025786709,09042690708,00987654321,01234567890,,deva@gmail.com,aaju@gmail.com,,,,,,,,,,
+deva,09025786709,00987654321,01234567890,00987654321,,deva@gmail.com,aaju@gmail.com,,,,,,,,,,
